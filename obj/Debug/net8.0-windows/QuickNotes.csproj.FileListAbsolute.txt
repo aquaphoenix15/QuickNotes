@@ -1,0 +1,16 @@
+C:\Users\Phoenix\source\repos\QuickNotes\QuickNotes\bin\Debug\net8.0-windows\QuickNotes.exe
+C:\Users\Phoenix\source\repos\QuickNotes\QuickNotes\bin\Debug\net8.0-windows\QuickNotes.deps.json
+C:\Users\Phoenix\source\repos\QuickNotes\QuickNotes\bin\Debug\net8.0-windows\QuickNotes.runtimeconfig.json
+C:\Users\Phoenix\source\repos\QuickNotes\QuickNotes\bin\Debug\net8.0-windows\QuickNotes.dll
+C:\Users\Phoenix\source\repos\QuickNotes\QuickNotes\bin\Debug\net8.0-windows\QuickNotes.pdb
+C:\Users\Phoenix\source\repos\QuickNotes\QuickNotes\obj\Debug\net8.0-windows\QuickNotes.Form1.resources
+C:\Users\Phoenix\source\repos\QuickNotes\QuickNotes\obj\Debug\net8.0-windows\QuickNotes.csproj.GenerateResource.cache
+C:\Users\Phoenix\source\repos\QuickNotes\QuickNotes\obj\Debug\net8.0-windows\QuickNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phoenix\source\repos\QuickNotes\QuickNotes\obj\Debug\net8.0-windows\QuickNotes.AssemblyInfoInputs.cache
+C:\Users\Phoenix\source\repos\QuickNotes\QuickNotes\obj\Debug\net8.0-windows\QuickNotes.AssemblyInfo.cs
+C:\Users\Phoenix\source\repos\QuickNotes\QuickNotes\obj\Debug\net8.0-windows\QuickNotes.csproj.CoreCompileInputs.cache
+C:\Users\Phoenix\source\repos\QuickNotes\QuickNotes\obj\Debug\net8.0-windows\QuickNotes.dll
+C:\Users\Phoenix\source\repos\QuickNotes\QuickNotes\obj\Debug\net8.0-windows\refint\QuickNotes.dll
+C:\Users\Phoenix\source\repos\QuickNotes\QuickNotes\obj\Debug\net8.0-windows\QuickNotes.pdb
+C:\Users\Phoenix\source\repos\QuickNotes\QuickNotes\obj\Debug\net8.0-windows\QuickNotes.genruntimeconfig.cache
+C:\Users\Phoenix\source\repos\QuickNotes\QuickNotes\obj\Debug\net8.0-windows\ref\QuickNotes.dll
